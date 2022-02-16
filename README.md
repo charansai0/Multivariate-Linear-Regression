@@ -44,7 +44,7 @@ print("Predicted CO2 for the correspondig weight and volume",predictedCO2)
 ```
 ## Output:
 
-
+![output]()
 
 ### Insert your output
 
